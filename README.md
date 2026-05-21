@@ -43,6 +43,6 @@ Clone or download the installation utility to your root folder, assign execution
 
 ```bash
 cd /root
-wget [https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/master_csf_shield.sh](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/master_csf_shield.sh)
+wget https://raw.githubusercontent.com/bipulbd08/cPanel-CSF-LFD-Triple-Layer-Security-Installer/main/master_csf_shield.sh
 chmod +x master_csf_shield.sh
 ./master_csf_shield.sh
